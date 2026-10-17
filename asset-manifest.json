@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tonanet/static/css/main.f855e6bc.css",
+    "main.js": "/tonanet/static/js/main.d3139d1c.js",
+    "index.html": "/tonanet/index.html",
+    "main.f855e6bc.css.map": "/tonanet/static/css/main.f855e6bc.css.map",
+    "main.d3139d1c.js.map": "/tonanet/static/js/main.d3139d1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d3139d1c.js"
+  ]
+}
