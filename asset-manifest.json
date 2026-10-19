@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tonanet/static/css/main.70834634.css",
-    "main.js": "/tonanet/static/js/main.046acce6.js",
+    "main.css": "/tonanet/static/css/main.c2a5f5bb.css",
+    "main.js": "/tonanet/static/js/main.7289b41e.js",
     "index.html": "/tonanet/index.html",
-    "main.70834634.css.map": "/tonanet/static/css/main.70834634.css.map",
-    "main.046acce6.js.map": "/tonanet/static/js/main.046acce6.js.map"
+    "main.c2a5f5bb.css.map": "/tonanet/static/css/main.c2a5f5bb.css.map",
+    "main.7289b41e.js.map": "/tonanet/static/js/main.7289b41e.js.map"
   },
   "entrypoints": [
-    "static/css/main.70834634.css",
-    "static/js/main.046acce6.js"
+    "static/css/main.c2a5f5bb.css",
+    "static/js/main.7289b41e.js"
   ]
 }
